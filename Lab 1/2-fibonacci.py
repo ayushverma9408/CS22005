@@ -1,4 +1,5 @@
-'''Develop a Python program to generate the Fibonacci series using recursive and user
+'''
+Develop a Python program to generate the Fibonacci series using recursive and user
 defined functions.
 '''
 def fib(n):
