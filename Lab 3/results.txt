@@ -1,0 +1,10 @@
+Roll No: CS0016, Name: Dolphy Sharma, Total: 277, Average: 92.33333333333333, Grade: A+
+Roll No: CS0026, Name: Ayush Verma, Total: 276, Average: 92.0, Grade: A+
+Roll No: CV0045, Name: Mayank Singh, Total: 296, Average: 98.66666666666667, Grade: A+
+Roll No: CS0061, Name: Sakshi Mehta, Total: 214, Average: 71.33333333333333, Grade: B
+Roll No: CS0057, Name: Aneek Besan, Total: 91, Average: 30.333333333333332, Grade: F
+Roll No: CS0032, Name: Teebrajit, Total: 241, Average: 80.33333333333333, Grade: A
+Roll No: CV0079, Name: Siddharth, Total: 155, Average: 51.666666666666664, Grade: D
+Roll No: EC0089, Name: Piyush Falke, Total: 282, Average: 94.0, Grade: A+
+Roll No: failure, Name: Shivam Tiwari, Total: 37, Average: 12.33333333333333, Grade: F
+Roll No: paripaglu, Name: Jon Kalita, Total: 59, Average: 19.66666666666667, Grade: F
