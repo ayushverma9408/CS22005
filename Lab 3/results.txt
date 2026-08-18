@@ -6,5 +6,3 @@ Roll No: CS0057, Name: Aneek Besan, Total: 91, Average: 30.333333333333332, Grad
 Roll No: CS0032, Name: Teebrajit, Total: 241, Average: 80.33333333333333, Grade: A
 Roll No: CV0079, Name: Siddharth, Total: 155, Average: 51.666666666666664, Grade: D
 Roll No: EC0089, Name: Piyush Falke, Total: 282, Average: 94.0, Grade: A+
-Roll No: failure, Name: Shivam Tiwari, Total: 37, Average: 12.33333333333333, Grade: F
-Roll No: paripaglu, Name: Jon Kalita, Total: 59, Average: 19.66666666666667, Grade: F
