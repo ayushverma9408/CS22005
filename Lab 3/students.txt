@@ -6,5 +6,3 @@ CS0057,Aneek Besan,45,37,09
 CS0032,Teebrajit,76,85,80
 CV0079,Siddharth,56,39,60
 EC0089,Piyush Falke,91,94,97
-failure,Shivam Tiwari,10,19,08
-paripaglu,Jon Kalita,23,17,19
